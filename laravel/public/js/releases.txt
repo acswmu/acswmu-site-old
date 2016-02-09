@@ -1,0 +1,23 @@
+First release
+move up down left right				--- DONE!!
+spawn more chickens that also move		--- You click they spawn
+not go off screen				--- YEAH!!
+
+second release -- split up a little bit
+chickens spawn in random locations		---The scatter then go to random locations
+main chicken moves randomly
+chickens attack the cursor			---Done
+chicken click counter
+
+third release
+hops instead of slides
+changes colors when clicked
+maybe makes noises when clicked
+
+fourth release
+better speed control of attack chickens
+changes direction facing when it moves
+sin wave chicken
+
+fifth release 
+create into chrome extension

@@ -1,0 +1,13 @@
+Main Page
+About Us
+Meetings
+	Upcoming Meetings
+	Recent Meetings
+Projects -- dropdown menu
+	Current Projects
+	Completed Projects
+	Future Projects
+Class Wiki --> requires login do we want this to be hidden?? yes!!!!! People who come to us get help, each bit of info should have specific hex passcodes, and once we've helped we can give out the passcode for that specific class
+Login?
+Forums?
+custom 404 page
