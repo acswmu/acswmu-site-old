@@ -1,59 +1,66 @@
-body 
+body
 {
-	background-color: #2E467D;
-	font-family: Verdana, Arial, sans-serif;
-	font-size: 16px;
+    background-color: #2E467D;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 16px;
 }
+
 #wholePage
 {
-	border:0px solid;
-	border-radius:25px;
-	width: 1000px;
-	margin: 0 auto;
-	background-color:#A8BDF0;
+    border:0px solid;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    width: 1000px;
+    margin: 0 auto;
+    background-color: grey;
 }
-#logo 
+
+#logo
 {
-	width: 900px;
+    width: 900px;
 }
+
 #logo img
 {
-	float: left;
-	clear: left;
+    float: left;
+    clear: left;
 }
+
 #header h1
 {
-	position: relative;
-	text-align: center;
-	color: blue;
-	padding-top: 85px;
+    position: relative;
+    text-align: center;
+    color: white;
+    padding-top: 85px;
 }
-#content 
-{
-	
-	border:0px solid;
-	border-radius:25px;
-	overflow: auto;
-	background-color: white;
-	text-align: left;
-	width: 90%;
-	margin: 38px auto 0 auto;
-	padding: 15px 15px 15px 15px; 
 
+#content
+{
+    border:0px solid;
+    border-radius: 3px;
+    overflow: auto;
+    background-color: white;
+    text-align: left;
+    width: 90%;
+    margin: 38px auto 0 auto;
+    padding: 15px 15px 15px 15px;
 }
+
 #footer
 {
-	text-align:center;
-	margin:0 auto;
-	padding-bottom:15px;
+    text-align:center;
+    margin:0 auto;
+    padding-bottom:15px;
 }
+
 #left
 {
-	width:70%;
-	float:left;
+    width:70%;
+    float:left;
 }
+
 #right
 {
-	width:30%;
-	float: right;
+    width:30%;
+    float: right;
 }
