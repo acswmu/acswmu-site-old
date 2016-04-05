@@ -5,6 +5,7 @@
 		<link rel="stylesheet" type="text/css" href="css/SuchStyle.css">
 		<link rel="stylesheet" type="text/css" href="css/wow.css">
 		<script src="js/jquery.js"></script>
+		<script src="js/Chickens.js"></script>
 	</head>
 	<body>
     <div id="wholePage">
