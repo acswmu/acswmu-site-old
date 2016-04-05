@@ -4,7 +4,18 @@
 		<!-- So was Red -->
 		<link rel="stylesheet" type="text/css" href="SuchStyle.css">
 		<link rel="stylesheet" type="text/css" href="wow.css">
+		<style> body { display : none;} </style>
+
+
 	</head>
+	<script>
+	if (self == top) {
+	  var theBody = document.getElementsByTagName('body')[0];
+	  theBody.style.display = "block";
+	} else {
+	  top.location = self.location;
+	}
+	</script>
 	<body>
 		<div id="wholePage">
 					<div id="logo">

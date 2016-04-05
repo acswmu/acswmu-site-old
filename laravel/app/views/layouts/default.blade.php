@@ -6,6 +6,17 @@
 		<script src="js/jquery.js"></script>
 		<script src="js/Chickens.js"></script>
 	</head>
+
+	<style> html{display:none;} </style>
+	<script>
+	   if(self == top) {
+	       document.documentElement.style.display = 'block'; 
+	   } else {
+	       top.location = self.location; 
+	   }
+	</script>
+
+
 	<body>
 
 		<div id="wholePage">
